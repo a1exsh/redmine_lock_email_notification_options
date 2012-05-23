@@ -1,0 +1,5 @@
+= lock_email_notification_options
+
+Lock user account email notification option at the default setting.
+
+UI-only change, one can still fool the controller if they want to.
