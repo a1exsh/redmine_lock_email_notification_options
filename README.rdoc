@@ -3,3 +3,5 @@
 Lock user account email notification option at the default setting.
 
 UI-only change, one can still fool the controller if they want to.
+
+For Redmine versions prior to 2.x, check out the pre-2.x branch.
